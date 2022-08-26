@@ -3,7 +3,7 @@ Indian facebook hack command 2022
 
 apt update
 
-apt upgrade
+apt upgrade -y
 
 apt install git -y
 
