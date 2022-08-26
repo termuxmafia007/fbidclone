@@ -15,7 +15,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone 
+git clone https://github.com/termuxmafia007/fbidclone.git
 
 cd fbidclone
 
